@@ -1,0 +1,6 @@
+quantity,mean,sd
+Successful outer runs,10/10,
+Singleton-marginal MAE,1.197140e-1,6.684583e-2
+Pair-marginal MAE,1.085589e-1,4.811216e-2
+Outer sweeps,3.100000e1,2.850341e1
+Maximum message residual,8.331867e-11,1.409072e-11

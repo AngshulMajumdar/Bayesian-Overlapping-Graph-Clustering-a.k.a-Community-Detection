@@ -1,0 +1,7 @@
+graph,iteration,residual_R,singleton_mae
+Path,10,1.820722e-2,2.112450e-3
+Path,30,1.105366e-4,4.594204e-6
+Path,converged (108 iterations),7.753242e-13,7.802647e-14
+2-tree,10,1.123787e-2,1.684820e-2
+2-tree,27,9.719297e-5,1.631450e-2
+2-tree,converged (102 iterations),8.325562e-13,1.631418e-2

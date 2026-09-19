@@ -1,0 +1,7 @@
+graph,closure,singleton_mae,edge_pair_mae
+Path,Product mean field,7.622056e-2,3.261890e-2
+Path,Bethe pair closure,7.802647e-14,1.437893e-15
+Path,Region-3,1.720846e-16,5.686038e-18
+2-tree,Product mean field,5.415536e-2,1.754718e-2
+2-tree,Bethe pair closure,1.631418e-2,1.435286e-3
+2-tree,Region-3,4.071743e-15,7.502679e-17

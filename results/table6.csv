@@ -1,0 +1,4 @@
+method,singleton_mae_mean,singleton_mae_sd,pair_mae_mean,pair_mae_sd,set_agreement_mean,set_agreement_sd,hamming_mean,hamming_sd,time_s_mean,time_s_sd
+Exact enumeration,0.000000e0,0.000000e0,0.000000e0,0.000000e0,1.000000e0,0.000000e0,0.000000e0,0.000000e0,4.708244e-2,1.302946e-3
+Product mean field,1.787454e-1,9.957240e-2,1.293959e-1,1.055444e-1,4.812500e-1,2.605504e-1,2.593750e-1,1.302752e-1,4.395613e-4,1.554974e-4
+Pairwise FSDB,1.645170e-1,9.616078e-2,1.242830e-1,1.022049e-1,5.125000e-1,2.921675e-1,2.437500e-1,1.460837e-1,2.133435e-3,1.511111e-3
